@@ -1,5 +1,5 @@
 .btn-primary{
-    color: #FFFFFF;
+    color: #ff5959;
     font-weight: 700;
     font-size: 20px;
     border-radius: 5px;
@@ -9,10 +9,13 @@
     height: 64px;
     align-items: center;
     display: flex;
-    justify-content: left;
+    justify-content: center;
     text-align: center;
     margin: auto;
-    
+    width: 157px;
+    height: 48px;
+    left: 780px;
+    top: 3518px;
 
 }
 .header{
@@ -163,7 +166,7 @@ nav{
     width: 572px;
   }
   .email_border {
-    width: 809px;
+    width: 700px;
   
     height: 200px;
     display: flex;
@@ -179,12 +182,12 @@ nav{
   .email_border input {
     position: absolute;
     top: 50%;
-    left: 43%;
+    left: 45%;
     transform: translate(-50%, -50%);
     border: none;
     background: #d9d9d9;
     border-radius: 5px 0px 0px 5px;
-    width: 275px;
+    width: 157px;
     height: 48px;
   }
   .email_border input::placeholder {
