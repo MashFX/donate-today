@@ -1,12 +1,11 @@
 .btn-primary{
-    color: #ff5959;
+    color: #FAFAFA;
     font-weight: 700;
     font-size: 20px;
     border-radius: 5px;
     background: #f26805;
     border: 0;
     padding: 18px 35px;
-    height: 64px;
     align-items: center;
     display: flex;
     justify-content: center;
